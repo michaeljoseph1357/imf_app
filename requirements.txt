@@ -5,3 +5,4 @@ dash_html_components
 dash.dependencies
 jupyter_dash
 plotly.graph_objs
+numpy
