@@ -1,8 +1,5 @@
 pandas
 dash
-dash_core_components
-dash_html_components
-dash.dependencies, Input, Output
-jupyter_dash, JupyterDash
+jupyter_dash, 
 plotly.graph_objs
 numpy
